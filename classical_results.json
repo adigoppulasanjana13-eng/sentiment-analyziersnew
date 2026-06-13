@@ -1,0 +1,5 @@
+{
+  "dataset_size": 1800,
+  "vader_baseline_accuracy": 54.83,
+  "gradient_boosting_accuracy": 76.94
+}
